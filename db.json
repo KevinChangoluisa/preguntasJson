@@ -4,115 +4,115 @@
       "id": 1,
       "pregunta": "NACIONALIDAD",
       "opciones": [
-        "op1": "ECUATORIANA",
-        "op2": "VENEZOLANA",
-        "op3": "COLOMBIANA",
-        "op4": "OTRA"
+         "ECUATORIANA",
+         "VENEZOLANA",
+        "COLOMBIANA",
+         "OTRA"
       ]
     },
     {
       "id": 2,
       "pregunta": "¿CÓMO SE IDENTIFICA SEGÚN SU CULTURA Y COSTUMBRES?",
       "opciones": [
-        "op1": "Indígena",
-        "op2": "Afroecuatoriano/Afrodescendiente",
-        "op3": "Negro/a",
-        "op4": "Mulato/a",
-        "op5": "Montubio/a",
-        "op6": "Mestizo/a",
-        "op7": "Blanco/a"
+         "Indígena",
+         "Afroecuatoriano/Afrodescendiente",
+         "Negro/a",
+        "Mulato/a",
+         "Montubio/a",
+         "Mestizo/a",
+         "Blanco/a"
       ]
     },
     {
       "id": 3,
       "pregunta": "¿LA SITUACIÓN DEL PAÍS ESTÁ MEJOR O PEOR QUE EL AÑO PASADO?",
       "opciones": [
-        "op1": "Mejor",
-        "op2": "Peor",
-        "op3": "Igual",
-        "op4": "No responde"
+         "Mejor",
+         "Peor",
+         "Igual",
+       "No responde"
       ]
     },
     {
       "id": 4,
       "pregunta": "¿LA SITUACIÓN DEL IESS ESTÁ MEJOR O PEOR QUE EL AÑO PASADO?",
       "opciones": [
-        "op1": "Mejor",
-        "op2": "Peor",
-        "op3": "Igual",
-        "op4": "No responde"
+        "Mejor",
+         "Peor",
+         "Igual",
+         "No responde"
       ]
     },
     {
       "id": 5,
       "pregunta": "¿Y DENTRO DE UN AÑO PIENSA QUE LA SITUACIÓN DEL IESS ESTARÁ MEJOR O PEOR QUE AHORA?",
       "opciones": [
-        "op1": "Mejor",
-        "op2": "Peor",
-        "op3": "Igual",
-        "op4": "No responde"
+         "Mejor",
+         "Peor",
+         "Igual",
+         "No responde"
       ]
     },
     {
       "id": 6,
       "pregunta": "EN GENERAL, ¿USTED TIENE UNA MUY BUENA, BUENA, MALA O MUY MALA IMAGEN DEL INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL?",
       "opciones": [
-        "op1": "Muy buena",
-        "op2": "Buena",
-        "op3": "Mala",
-        "op4": "Muy mala"
+         "Muy buena",
+         "Buena",
+         "Mala",
+         "Muy mala"
       ]
     },
     {
       "id": 7,
       "pregunta": "¿USTED CUÁNTO CONOCE SOBRE CÓMO SE FINANCIA Y ADMINISTRA EL “IESS”: MUCHO, ALGO, POCO O NADA?",
       "opciones": [
-        "op1": "Mucho",
-        "op2": "Algo",
-        "op3": "Poco",
-        "op4": "Nada"
+         "Mucho",
+         "Algo",
+         "Poco",
+         "Nada"
       ]
     },
     {
       "id": 8,
       "pregunta": "¿USTED CREE QUE PARA LAS PERSONAS ES MEJOR AFILIARSE AL “IESS” O ES MEJOR QUE TENGAN UN SEGURO PRIVADO?",
       "opciones": [
-        "op1": "Mejor afiliarse al IESS",
-        "op2": "Tener un Seguro Privado",
-        "op3": "Ambos",
-        "op4": "No responde"
+         "Mejor afiliarse al IESS",
+         "Tener un Seguro Privado",
+         "Ambos",
+         "No responde"
       ]
     },
     {
       "id": 9,
       "pregunta": "SI PUDIERA TOMAR LA DECISIÓN, ¿USTED QUÉ SEGURO ELIGIRÍA: DEL “IESS” O UN SEGURO PRIVADO?",
       "opciones": [
-        "op1": "Afiliarse al IESS",
-        "op2": "Afiliarse a un Seguro Privado",
-        "op3": "Ambos",
-        "op4": "Ninguno",
-        "op5": "No responde"
+         "Afiliarse al IESS",
+         "Afiliarse a un Seguro Privado",
+         "Ambos",
+         "Ninguno",
+         "No responde"
         ]
     },
     {
       "id": 10,
       "pregunta": "USTED CREE QUE ES MUY BUENA, BUENA, MALA O MUY MALA LA ATENCIÓN QUE BRINDA EL PERSONAL QUE ATIENDE EN LAS OFICINAS DEL IESS?",
       "opciones": [
-        "op1": "Muy buena",
-        "op2": "Buena",
-        "op3": "Mala",
-        "op4": "Muy mala"
+         "Muy buena",
+         "Buena",
+         "Mala",
+         "Muy mala"
       ]
     },
     {
       "id": 11,
       "pregunta": "AL MOMENTO DE HACER ALGÚN TRÁMITE DEL IESS, ¿PARA USTED QUÉ ES MÁS EFECTIVO: HACERLO EN PERSONA O HACERLO POR INTERNET",
       "opciones": [
-        "op1": "En persona",
-        "op2": "Por internet",
-        "op3": "Ambas",
-        "op4": "NINGUNA",
-        "op5": "NO HACE TRÁMITES"
+        "En persona",
+         "Por internet",
+         "Ambas",
+         "NINGUNA",
+         "NO HACE TRÁMITES"
       ]
     }
   ]
