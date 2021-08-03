@@ -1,204 +1,119 @@
 {
-  "estudiantes": [
-    {
+  "preguntas": [{
       "id": 1,
-      "name": "Andrea González",
-      "username": "AndreaGonzalez14",
-      "email": "agonzalezl6@est.ups.edu.ec",
-      "address": {
-      "street": "Lloque Yupanqui",
-      "suite": "Casa 2 pisos",
-      "city": "Quito",
-      "zipcode": "170805",
-      "geo": {
-        "lat": "-0.288097302641675",
-        "lng": "-78.49080871861874"
+      "pregunta": "NACIONALIDAD",
+      "opciones": {
+        "op1": "ECUATORIANA",
+        "op2": "VENEZOLANA",
+        "op3": "COLOMBIANA",
+        "op4": "OTRA"
       }
-    },
-    "phone": "0992313269",
-    "photo": "https://i0.wp.com/i.pinimg.com/originals/68/b5/da/68b5da5de55859e7385924b2a78ccd5a.png"
     },
     {
       "id": 2,
-      "name": "Anthony Tandalla",
-      "username": "atandalla",
-      "email": "atandalla@est.ups.edu.ec",
-      "address": {
-      "street": "Gonzalo Escudero",
-      "suite": "Tercer piso",
-      "city": "Quito",
-      "zipcode": "170410",
-      "geo": {
-        "lat": "-0.225508",
-        "lng": "-78.487617"
+      "pregunta": "¿CÓMO SE IDENTIFICA SEGÚN SU CULTURA Y COSTUMBRES?",
+      "opciones": {
+        "op1": "Indígena",
+        "op2": "Afroecuatoriano/Afrodescendiente",
+        "op3": "Negro/a",
+        "op4": "Mulato/a",
+        "op5": "Montubio/a",
+        "op6": "Mestizo/a",
+        "op7": "Blanco/a"
       }
-    },
-    "phone": "0999843386",
-    "photo": "https://holatelcel.com/wp-content/uploads/2018/11/HEAD-Shrek-reboot.jpg"
     },
     {
-    "id": 3,
-    "name": "Alfredo Catucuago",
-    "username": "CatucuagoAlfredo17",
-    "email": "acatucuango@est.ups.edu.ec",
-    "address": {
-      "street": "N/a",
-      "suite": "Casa 1 piso",
-      "city": "Cayambe",
-      "zipcode": "171002",
-      "geo": {
-        "lat": "0.044234",
-        "lng": "-78.165603"
+      "id": 3,
+      "pregunta": "¿LA SITUACIÓN DEL PAÍS ESTÁ MEJOR O PEOR QUE EL AÑO PASADO?",
+      "opciones": {
+        "op1": "Mejor",
+        "op2": "Peor",
+        "op3": "Igual",
+        "op4": "No responde"
       }
-    },
-    "phone": "0993955662",
-    "photo": "https://images.pexels.com/photos/6804581/pexels-photo-6804581.jpeg"
     },
     {
-    "id": 4,
-    "name": "Stalin Chiguano",
-    "username": "StalinCh98",
-    "email": "schiguanog@est.ups.edu.ec",
-    "address": {
-      "street": "Joaquín Ruales",
-      "suite": "Casa 2 pisos",
-      "city": "Quito",
-      "zipcode": "170805",
-      "geo": {
-        "lat": "-0.2841863",
-        "lng": "-78.5601501"
+      "id": 4,
+      "pregunta": "¿LA SITUACIÓN DEL IESS ESTÁ MEJOR O PEOR QUE EL AÑO PASADO?",
+      "opciones": {
+        "op1": "Mejor",
+        "op2": "Peor",
+        "op3": "Igual",
+        "op4": "No responde"
       }
-    },
-    "phone": "0995882909",
-    "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa3kgT6LK9WC_S3ptbdTvpwiBrRnWT4-RAbw&usqp=CAU"
     },
     {
-    "id": 5,
-    "name": "Andres Guevara",
-    "username": "Andresgueva",
-    "email": "lguevarap@est.ups.edu.ec",
-    "address": {
-      "street": "Atahualpa",
-      "suite": "Casa 2 piso",
-      "city": "Sangolqui",
-      "zipcode": "171103",
-      "geo": {
-        "lat": "-0.21430000662804",
-        "lng": "-78.50170135498"
+      "id": 5,
+      "pregunta": "¿Y DENTRO DE UN AÑO PIENSA QUE LA SITUACIÓN DEL IESS ESTARÁ MEJOR O PEOR QUE AHORA?",
+      "opciones": {
+        "op1": "Mejor",
+        "op2": "Peor",
+        "op3": "Igual",
+        "op4": "No responde"
       }
-    },
-    "phone": "0963176024",
-    "photo": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2016/08/dota-2.jpg"
     },
     {
-    "id": 6,
-    "name": "Jordy Quilachamin",
-    "username": "Jquila",
-    "email": "jquilachaminb@est.ups.edu.ec",
-    "address": {
-      "street": "El inca",
-      "suite": "Casa",
-      "city": "El inca",
-      "zipcode": "171103",
-      "geo": {
-        "lat": "-0.1444927",
-        "lng": "-78.4598656"
+      "id": 6,
+      "pregunta": "EN GENERAL, ¿USTED TIENE UNA MUY BUENA, BUENA, MALA O MUY MALA IMAGEN DEL INSTITUTO ECUATORIANO DE SEGURIDAD SOCIAL?",
+      "opciones": {
+        "op1": "Muy buena",
+        "op2": "Buena",
+        "op3": "Mala",
+        "op4": "Muy mala"
       }
-    },
-    "phone": "0984581915",
-    "photo": "https://preview.redd.it/jzhbatqi6an51.png?width=1920&format=png&auto=webp&s=bbc18c91c54dceedc172cac0d36b654595e1d9ec"
     },
     {
-    "id": 7,
-    "name": "Joel Estacio",
-    "username": "jestacio",
-    "email": "jestacios@est.ups.edu.ec",
-    "address": {
-      "street": "Esteban Riera",
-      "suite": "Casa 4 pisos",
-      "city": "Quito",
-      "zipcode": "170606",
-      "geo": {
-        "lat": "-0.270807",
-        "lng": "-78.540200"
+      "id": 7,
+      "pregunta": "¿USTED CUÁNTO CONOCE SOBRE CÓMO SE FINANCIA Y ADMINISTRA EL “IESS”: MUCHO, ALGO, POCO O NADA?",
+      "opciones": {
+        "op1": "Mucho",
+        "op2": "Algo",
+        "op3": "Poco",
+        "op4": "Nada"
       }
-    },
-    "phone": "0959530874",
-    "photo": "https://p4.wallpaperbetter.com/wallpaper/99/379/781/sentinel-irelia-irelia-league-of-legends-league-of-legends-riot-games-hd-wallpaper-preview.jpg"
     },
     {
-    "id": 8,
-    "name": "Nicolás Cazco",
-    "username": "Nicolascvj",
-    "email": "ncazco@est.ups.edu.ec",
-    "address": {
-      "street": "Av. Domingo Rengifo",
-      "suite": "Casa 2 pisos",
-      "city": "Quito",
-      "zipcode": "170303",
-      "geo": {
-        "lat": "-0.099277",
-        "lng": "-78.476731"
+      "id": 8,
+      "pregunta": "¿USTED CREE QUE PARA LAS PERSONAS ES MEJOR AFILIARSE AL “IESS” O ES MEJOR QUE TENGAN UN SEGURO PRIVADO?",
+      "opciones": {
+        "op1": "Mejor afiliarse al IESS",
+        "op2": "Tener un Seguro Privado",
+        "op3": "Ambos",
+        "op4": "No responde"
       }
-    },
-    "phone": "0987799778",
-    "photo": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Malzahar_0.jpg"
     },
     {
-    "id": 9,
-    "name": "Carlos Andrade",
-    "username": "Candrade",
-    "email": "candradev5@est.ups.edu.ec",
-    "address": {
-      "street": "Apuela y palmales",
-      "suite": "Casa 4 pisos",
-      "city": "Quito",
-      "zipcode": "170606",
-      "geo": {
-        "lat": "-0.28186050799168944",
-        "lng": "-78.54959542032893"
-      }
+      "id": 9,
+      "pregunta": "SI PUDIERA TOMAR LA DECISIÓN, ¿USTED QUÉ SEGURO ELIGIRÍA: DEL “IESS” O UN SEGURO PRIVADO?",
+      "opciones": {
+        "op1": "Afiliarse al IESS",
+        "op2": "Afiliarse a un Seguro Privado",
+        "op3": "Ambos",
+        "op4": "Ninguno",
+        "op5": "No responde"
 
-    },
-    "phone": "0962051445",
-    "photo": "https://i.blogs.es/5efe2c/cap_001/450_1000.jpg"
-    },
-    {
-    "id": 10,
-    "name": "Kevin Changoluisa",
-    "username": "kchangoluisa",
-    "email": "kchangoluisa@est.ups.edu.ec",
-    "address": {
-      "street": "Av. General Florencio Olleary",
-      "suite": "Casa 3 pisos",
-      "city": "Quito",
-      "zipcode": "170406",
-      "geo": {
-        "lat": "-0.22697208545391914",
-        "lng": "-78.52611481750262"
-      }
-
-    },
-    "phone": "0999039732",
-    "photo": "https://media.gettyimages.com/photos/white-cloud-in-dark-sky-2547-picture-id1155235411?k=6&m=1155235411&s=612x612&w=0&h=bTIZkr5OXVRoSb8Vxpj3XknRG5JXRNv0v69ZroCQJdo="
-    },
-    {
-    "id": 11,
-    "name": "Daniel Domínguez ",
-    "username": "ddominguez",
-    "email": "ddominguezr@est.ups.edu.ec",
-    "address": {
-      "street": "Teniente Hugo Ortiz",
-      "suite": "Casa 2 pisos",
-      "city": "Quito",
-      "zipcode": "170606",
-      "geo": {
-        "lat": "-0.2747173",
-        "lng": "-78.5398699"
       }
     },
-    "phone": "0984317010",
-    "photo": "https://p4.wallpaperbetter.com/wallpaper/99/379/781/sentinel-irelia-irelia-league-of-legends-league-of-legends-riot-games-hd-wallpaper-preview.jpg"
+    {
+      "id": 10,
+      "pregunta": "USTED CREE QUE ES MUY BUENA, BUENA, MALA O MUY MALA LA ATENCIÓN QUE BRINDA EL PERSONAL QUE ATIENDE EN LAS OFICINAS DEL IESS?",
+      "opciones": {
+        "op1": "Muy buena",
+        "op2": "Buena",
+        "op3": "Mala",
+        "op4": "Muy mala"
+      }
+    },
+    {
+      "id": 11,
+      "pregunta": "AL MOMENTO DE HACER ALGÚN TRÁMITE DEL IESS, ¿PARA USTED QUÉ ES MÁS EFECTIVO: HACERLO EN PERSONA O HACERLO POR INTERNET",
+      "opciones": {
+        "op1": "En persona",
+        "op2": "Por internet",
+        "op3": "Ambas",
+        "op4": "NINGUNA",
+        "op5": "NO HACE TRÁMITES"
+      }
     }
   ]
 }
